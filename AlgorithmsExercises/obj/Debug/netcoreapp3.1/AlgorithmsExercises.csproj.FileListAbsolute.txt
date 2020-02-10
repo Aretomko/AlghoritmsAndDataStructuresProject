@@ -1,0 +1,11 @@
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\bin\Debug\netcoreapp3.1\AlgorithmsExercises.exe
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\bin\Debug\netcoreapp3.1\AlgorithmsExercises.deps.json
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\bin\Debug\netcoreapp3.1\AlgorithmsExercises.runtimeconfig.json
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\bin\Debug\netcoreapp3.1\AlgorithmsExercises.runtimeconfig.dev.json
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\bin\Debug\netcoreapp3.1\AlgorithmsExercises.dll
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\bin\Debug\netcoreapp3.1\AlgorithmsExercises.pdb
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\obj\Debug\netcoreapp3.1\AlgorithmsExercises.csprojAssemblyReference.cache
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\obj\Debug\netcoreapp3.1\AlgorithmsExercises.AssemblyInfoInputs.cache
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\obj\Debug\netcoreapp3.1\AlgorithmsExercises.AssemblyInfo.cs
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\obj\Debug\netcoreapp3.1\AlgorithmsExercises.dll
+C:\descktop\Portfolio\C\AlgorithmsExercises\AlgorithmsExercises\obj\Debug\netcoreapp3.1\AlgorithmsExercises.pdb
